@@ -91,15 +91,9 @@ TODO APP
 
 Completed: 
 1: Walk Dog
-
-TODO APP
-1. Add task to do
-2. Complete task
-3. Display TODO list
-4. Display DONE list
-0. Exit 
-0
 ```
+
+---
 
 ## Technologies 
 - C++ Programming Language
@@ -110,11 +104,15 @@ TODO APP
 - Arrays and Linked List Data Structures 
 - Makefile for compilation automation
 
+---
+
 ## Notes
   - Input validation is minimal; the program assumes the user enters valid integers for menu selections.
-  - Focus of this project is on implementing the List ADT using array and linked list storage, as well as      analyzing the time complexity difference between them.
+  - Focus of this project is on implementing the List ADT using array and linked list storage, as well as analyzing the time complexity difference between them.
   - The main driver (`main.cpp`) was provided the instructor as part of a course assignment.  
   - All data structure implementations (`LinkedList`, `ArrayList`, `Node`, etc.) were written and debugged     by me.
+
+ ---
  
 ## About
   Created by Georgia Guillebeau — Computer Science & Engineering student at UNR.
